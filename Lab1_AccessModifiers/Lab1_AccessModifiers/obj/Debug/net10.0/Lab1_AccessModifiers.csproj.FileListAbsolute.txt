@@ -1,0 +1,14 @@
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\bin\Debug\net10.0\Lab1_AccessModifiers.exe
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\bin\Debug\net10.0\Lab1_AccessModifiers.deps.json
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\bin\Debug\net10.0\Lab1_AccessModifiers.runtimeconfig.json
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\bin\Debug\net10.0\Lab1_AccessModifiers.dll
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\bin\Debug\net10.0\Lab1_AccessModifiers.pdb
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\Lab1_AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\Lab1_AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\Lab1_AccessModifiers.AssemblyInfo.cs
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\Lab1_AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\Lab1_AccessModifiers.dll
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\refint\Lab1_AccessModifiers.dll
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\Lab1_AccessModifiers.pdb
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\Lab1_AccessModifiers.genruntimeconfig.cache
+C:\Users\aarus\source\repos\Lab1_AccessModifiers\Lab1_AccessModifiers\obj\Debug\net10.0\ref\Lab1_AccessModifiers.dll
